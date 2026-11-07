@@ -380,6 +380,41 @@ They demonstrate:
 - Handling missing book IDs.
 
 Add the actual screenshots below using Markdown image links. Example:
+### 1. Search Books
+![Search Books](screenshots/search-books.png)
+
+### 2. Search With No Results
+![Search No Results](screenshots/search-no-results.png)
+
+### 3. Filter Books
+![Filter Books](screenshots/filter-books.png)
+
+### 4. Maximum Price Filter
+![Maximum Price Filter](screenshots/max-price-filter.png)
+
+### 5. Sort by Title
+![Sort by Title](screenshots/sort-title.png)
+
+### 6. Sort by Descending Price
+![Sort Descending](screenshots/sort-descending.png)
+
+### 7. Sort by Ascending Price
+![Sort Ascending](screenshots/sort-price-ascending.png)
+
+### 8. Pagination – First Page
+![Pagination First Page](screenshots/pagination-first-page.png)
+
+### 9. Pagination – Second Page
+![Pagination Second Page](screenshots/pagination-second-page.png)
+
+### 10. Update Book
+![Updated Book](screenshots/verify-updated-book.png)
+
+### 11. Delete Book
+![Deleted Book](screenshots/verify-deleted-book.png)
+
+### 12. PUT 404 Error
+![PUT 404 Error](screenshots/put-404-error.png)
 
 ```markdown
 ![GET All Books](screenshots/get-all-books.png)
