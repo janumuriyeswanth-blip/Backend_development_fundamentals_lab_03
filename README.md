@@ -2,9 +2,9 @@
 
 ## 1. Student Details
 
-- **Name:** [Friend's Full Name]
-- **Registration Number:** [Registration Number]
-- **Section:** [Section]
+- **Name:** JANUMURI YESWANTH
+- **Registration Number:** 252U1R9046
+- **Section:** CSE GEN-AI, 304
 - **Subject:** Backend Development Fundamentals
 - **Academic Year/Term:** Year II, Term II
 - **University:** Aurora Deemed to be University
